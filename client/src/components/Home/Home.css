@@ -1,0 +1,76 @@
+@media
+only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (-o-min-device-pixel-ratio: 3/2),
+only screen and (min--moz-device-pixel-ratio: 1.5),
+only screen and (min-device-pixel-ratio: 1.5){
+
+  .home-container {
+  
+    background-image: url("https://images.alphacoders.com/436/thumb-1920-436034.jpg"); /* The image used */
+    background-color: #cccccc; /* Used if the image is unavailable */
+    height: 2850px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    background-attachment: fixed;
+    background-blend-mode: multiply;
+    
+
+}
+  body{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+  }
+
+}
+
+.line1 {
+  font-family: 'Oswald', sans-serif;
+  font-size:80px!important;
+  font-weight: 600;
+  color: #64e044;
+  position: absolute;
+  top: 80px;
+  width: 100%;
+  left: 400px;
+  font-size: 18px;
+}
+
+.line2 {
+  font-family: 'Oswald', sans-serif;
+  font-size:80px!important;
+  font-weight: 600;
+  color: #48dd86;
+  position: absolute;
+  top: 160px;
+  width: 100%;
+  left: 400px;
+  font-size: 18px;
+}
+
+.line3 {
+  font-family: 'Oswald', sans-serif;
+  font-size:80px!important;
+  font-weight: 600;
+  color: #64e044;
+  position: absolute;
+  top: 240px;
+  width: 100%;
+  left: 400px;
+  font-size: 18px;
+}
+
+.line4 {
+  font-family: 'Oswald', sans-serif;
+  font-size:80px!important;
+  font-weight: 600;
+  color: #48dd86;
+  position: absolute;
+  top: 320px;
+  width: 100%;
+  left: 400px;
+  font-size: 18px;
+}

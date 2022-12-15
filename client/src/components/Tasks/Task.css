@@ -1,0 +1,17 @@
+.task_bg {
+    background-image: linear-gradient(79deg, #e66465, #9198e5);  
+    height: 2850px; 
+}
+
+.aligntask{
+    margin-left: 20px;
+}
+
+
+.titletask {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    color: #0E5E6F;
+}
+

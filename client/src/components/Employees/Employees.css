@@ -1,0 +1,21 @@
+.emp_bg {
+    background-image: linear-gradient(#e66465, #9198e5);  
+    height: 2500px; 
+}
+
+.tittleemp {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    color: #0E5E6F;
+}
+
+.search {
+    margin-left: 87px;
+    width: 500px;
+    display: flex;
+}
+
+.displayemp {
+    margin-left: 175px;
+}
